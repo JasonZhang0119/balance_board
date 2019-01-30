@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Dec 28 07:46:03 2018
+# Process ID: 1472
+# Current directory: D:/micropc_project1/our_project2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15460 D:\micropc_project1\our_project2\our_project2.xpr
+# Log file: D:/micropc_project1/our_project2/vivado.log
+# Journal file: D:/micropc_project1/our_project2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/micropc_project1/our_project2/our_project2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/micropc_project1/axi_ip'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/micropc_project1/ip/pwm_generator2'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/micropc_project1/ip/zybo_tx_ip_2'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/micropc_project1/pid_pi10'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:18 . Memory (MB): peak = 819.668 ; gain = 122.199
+update_compile_order -fileset sources_1
+launch_sdk -workspace D:/micropc_project1/our_project2/our_project2.sdk -hwspec D:/micropc_project1/our_project2/our_project2.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace D:/micropc_project1/our_project2/our_project2.sdk -hwspec D:/micropc_project1/our_project2/our_project2.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Dec 28 10:53:13 2018...

@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Jan  5 11:11:16 2019
+# Process ID: 22052
+# Current directory: D:/micropc_project1/our_project2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21976 D:\micropc_project1\our_project2\our_project2.xpr
+# Log file: D:/micropc_project1/our_project2/vivado.log
+# Journal file: D:/micropc_project1/our_project2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/micropc_project1/our_project2/our_project2.xpr
+update_compile_order -fileset sources_1
+open_bd_design {D:/micropc_project1/our_project2/our_project2.srcs/sources_1/bd/design_1/design_1.bd}
